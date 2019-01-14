@@ -409,7 +409,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "home",
-        "order": 5
+        "order": 1
       },
       "components": [
         {
@@ -1846,7 +1846,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "P2",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2836,7 +2836,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "P0",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -3507,7 +3507,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "P1",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -4313,7 +4313,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "P3",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
